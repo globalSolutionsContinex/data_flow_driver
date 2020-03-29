@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="1" time="0.059"><testcase classname="test.test_orchestrator" file="test/test_orchestrator.py" line="14" name="test_pipelines_active" time="0.002"><system-out>init orchestrator
+running orchestrator
+test state orchestrator
+</system-out></testcase></testsuite>

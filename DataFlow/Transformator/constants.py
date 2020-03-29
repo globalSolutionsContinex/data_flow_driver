@@ -1,0 +1,6 @@
+COLUMNS_FILE = 'columns_file_descriptor'
+COLUMNS_PATTERN = 'columns_pattern'
+DEFAULT = 'default'
+RULES = 'rules'
+LAMB_FUNC = 'lamb_func'
+ID_THOR = 'id_thor'

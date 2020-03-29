@@ -1,0 +1,12 @@
+version: '3'
+services:
+  THOR:
+    build:
+      context: .
+      dockerfile: test/Dockerfile
+    image: 'ferretodo/THOR_test'
+    container_name: THOR_test
+    environment:
+      - ENV=${ENV}
+    volumes:
+      - .:/var/www/
